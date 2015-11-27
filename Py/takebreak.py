@@ -1,4 +1,4 @@
-#This program play a video on the internet every 2 hours, for 3 times.
+#This program plays a video on the internet every 2 hours, for 3 times.
 #Udacity "Programming Foundations with Python" first project
 #By xiaozhenliu@github On 2015-11-27
 
