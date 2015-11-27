@@ -1,9 +1,9 @@
 # FullStack
-Here is my work for Udacity's Nanodegree program ["Front-End Web Developer"](https://www.udacity.com/course/full-stack-web-developer-nanodegree--nd004)
+Here is my work for Udacity's Nanodegree program ["Front-End Web Developer"](https://www.udacity.com/course/full-stack-web-developer-nanodegree--nd004).
 
 ##Course List & Progress
 
-1. [Programming Foundations with Python](https://www.udacity.com/course/programming-foundations-with-python--ud036) (in progress)
+1. [Programming Foundations with Python](https://www.udacity.com/course/programming-foundations-with-python--ud036) (**in progress**)
 
 2. [Intro to Relational Databases](https://www.udacity.com/course/intro-to-relational-databases--ud197) (not started)
 
