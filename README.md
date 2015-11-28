@@ -1,5 +1,5 @@
 # FullStack
-Here is my work for Udacity's Nanodegree program ["Front-End Web Developer"](https://www.udacity.com/course/full-stack-web-developer-nanodegree--nd004).
+Here is my work for Udacity's Nanodegree program ["Full Stack Web Developer"](https://www.udacity.com/course/full-stack-web-developer-nanodegree--nd004).
 
 ##Course List & Progress
 
