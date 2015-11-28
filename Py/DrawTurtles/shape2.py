@@ -16,7 +16,7 @@ def draw_recur_shapes(t,size,level):
             draw_recur_shapes(t,size/2,level-1)
             t.forward(size)
             t.left(120)
-            print level
+            #print level
 
 window = turtle.Screen()
 window.bgcolor("white")
