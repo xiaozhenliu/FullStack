@@ -24,7 +24,7 @@ brad = turtle.Turtle()
 
 brad.shape("turtle")
 brad.color("green", "green")
-brad.speed(1)
+brad.speed(0)
 draw_recur_shapes(brad,200,3)
 
 window.exitonclick()

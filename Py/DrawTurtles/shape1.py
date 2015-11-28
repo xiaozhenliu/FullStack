@@ -7,7 +7,7 @@ def draw_flower():
     brad = turtle.Turtle()
     brad.shape("turtle")
     brad.color("blue")
-    brad.speed(1000)
+    brad.speed(0)
 
     for n in range(360/10):
         for i in range(2):
@@ -18,8 +18,7 @@ def draw_flower():
         brad.right(10)
 
     brad.right(90)
-
     brad.forward(300)
-    time.sleep(30)
+    window.exitonclick()
 
 draw_flower()
