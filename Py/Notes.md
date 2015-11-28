@@ -23,3 +23,22 @@
 ###Function, Class, Instance
 
 ##Lesson 2c (Use Classes): Profanity Editor
+
+1. Read a file
+2. Open URL (urllib)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
