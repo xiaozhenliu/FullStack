@@ -24,12 +24,23 @@
 
 ##Lesson 2c (Use Classes): Profanity Editor
 
-1. Read a file
-2. Open URL (urllib)
+1. Read a file (`open()` ,`read()` ,`close()`)
+2. Open URL (`urllib`)
 
+##Lesson 3a (Make Classes): Movie Website
+1. [Google Style for Python](http://google-styleguide.googlecode.com/svn/trunk/pyguide.html)
+2. define `__init__` function
+3. define `show_trailer	` method
+4. Use array
+5. Create a movie website
 
-
-
+##Lesson 3b (Make Classes): Advanced Topics
+1. Class variables
+2. Doc Strings (`__doc__`)
+3. Interitance
+4. Class parent and child
+5. Reusing methods
+6. Method overriding
 
 
 
